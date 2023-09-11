@@ -4,6 +4,7 @@
 xcf file of polaris' map
 
 small text (star labels) in 9 pt arial no antialiasing
+
 large text (gold labels) in 38 pt gandhi serif bold italic with antialiasing
 
 How To Make A Starlane
