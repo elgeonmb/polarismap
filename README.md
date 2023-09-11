@@ -1,5 +1,5 @@
 # polarismap
-!(https://github.com/elgeonmb/polarismap/blob/main/map.png?raw=true)
+![current polaris map](https://github.com/elgeonmb/polarismap/blob/main/map.png?raw=true)
 
 xcf file of polaris' map
 
