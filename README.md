@@ -3,7 +3,7 @@
 
 xcf file of polaris' map
 
-small text (star labels) in 9 pt arial no antialiasing
+small text (star labels) in 9 pt tahoma no antialiasing
 
 large text (gold labels) in 38 pt gandhi serif bold italic with antialiasing
 
