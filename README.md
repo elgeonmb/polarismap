@@ -3,9 +3,17 @@
 
 xcf file of polaris' map
 
+please be sure and export your map to map.png before updating so that the preview updates along with it
+
 small text (star labels) in 9 pt tahoma no antialiasing
 
 large text (gold labels) in 38 pt gandhi serif bold italic with antialiasing
+
+key header in 20 pt tahoma no antialiasing
+
+key subheaders in 13 pt tahoma no antialiasing
+
+key labels in 11 pt tahoma no antialiasing
 
 How To Make A Starlane
 
